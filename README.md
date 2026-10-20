@@ -6,6 +6,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](licence.md)
 [![Kenney: CC0](https://img.shields.io/badge/Assets-Kenney%20CC0-lightgrey.svg)](https://kenney.nl/)
 
+> [!WARNING]
+> # ⚠️ BIG WARNING: WORK IN PROGRESS
+> **This mod is an active work in progress!**  
+> Fixes by **Gemini 3.8** are currently not fixing issues well, and it seems a little risky to try and play this right now. Please proceed with caution and backup your worlds before testing!
+
 > **Majestic autonomous ocean liners with walkable decks and moving block support!**  
 > Board the **RMS Titanic** and embark on automated trans-oceanic voyages. Place luggage and chests on the deck, bring your friends, and cruise across the seas with a rock-solid, ultra RAM-efficient moving blocks system.
 
